@@ -24,28 +24,7 @@ public class FullScreenMediaController extends MediaController {
         this.Method_Number = Method_Number;
     }
 
-    @Override
-    public void setAnchorView(View view)
-    {
-        super.setAnchorView(view);
-        //image button for full screen to be added to media controller
-        fullScreen = new ImageButton (super.getContext());
-
-        FrameLayout.LayoutParams params = new FrameLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
-        params.gravity = Gravity.RIGHT;
-        addView(fullScreen, params);
-
-
-        if(Method_Number==1)
-        {
-            fullScreen.setImageResource(R.drawable.ic_fullscreen);
-        }
-        else
-        {
-            fullScreen.setImageResource(R.drawable.ic_fullscreen_exit);
-        }
-
-
+   
         //add listener to image button to handle full screen and exit full screen events
         fullScreen.setOnClickListener(new OnClickListener()
         {
