@@ -35,10 +35,10 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 4. Lyrics support.
 5. Multiple languages (more than 16 languages).
 6. Headphone detector.
-7. Compatible with Media Keys on Keyboard (like The Play/Pause, Next, and Previous media keys can be used to play, pause, or skip songs).
+7. Additional theme options.
 8. Scrobbling.
 9. Theming.
-10. Additional theme options.
+10. Compatible with Media Keys on Keyboard (like The Play/Pause, Next, and Previous media keys can be used to play, pause, or skip songs).
 
 
 ***
