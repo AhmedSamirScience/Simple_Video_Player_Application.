@@ -11,8 +11,8 @@ Download the apk or get the app via Google Play store.
 
 
 <p  href="url" align="center"  >
-  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/apkpic.png"             height="250" width="300"  />
- <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/playstorelogo.png"              height="150" width="200" /> 
+  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/apkpic.png"             height="100" width="150"  />
+ <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/playstorelogo.png"              height="100" width="150" /> 
 </p>
  
 ***
