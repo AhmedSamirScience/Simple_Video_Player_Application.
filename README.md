@@ -28,7 +28,7 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 </p>
 
 ***
-## 4 - Screenshots of The App📱:
+## 4 - Features:
 1. Multiple screens supported.
 2. Material design
 3. Browse Video Songs, and Albums.
@@ -42,7 +42,7 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 
 
 ***
-## 4 - Libraries and tools used in the project:
+## 5 - Libraries and tools used in the project:
 1. Design Support Library The Design package provides APIs to support adding material design components and patterns to your apps.
 2. RecyclerView A flexible view for providing a limited window into a large data set.
 3. PercentRelativeLayout Subclass of RelativeLayout that supports percentage based dimensions and margins.
