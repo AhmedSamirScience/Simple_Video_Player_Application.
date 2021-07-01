@@ -28,15 +28,27 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 </p>
 
 ***
-## 5 - Installation:
+## 4 - Screenshots of The App📱:
+1. Multiple screens supported.
+2. Material design
+3. Browse Video Songs, and Albums.
+4. Lyrics support.
+5. Multiple languages (more than 16 languages).
+6. Headphone detector.
+7. Compatible with Media Keys on Keyboard (like The Play/Pause, Next, and Previous media keys can be used to play, pause, or skip songs).
+8. Scrobbling.
+9. Theming.
+10. Additional theme options.
 
-Download the apk or get the app via Google Play store.
 
-<p  href="url" align="center"  >
-  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/playstorelogo.png" height="60" width="190"  />
- <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/apkpic.png" height="60" width="190" /> 
-  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/fdroid.png" height="60" width="190" /> 
-</p>
+***
+## 4 - Libraries and tools used in the project:
+1. Design Support Library The Design package provides APIs to support adding material design components and patterns to your apps.
+2. RecyclerView A flexible view for providing a limited window into a large data set.
+3. PercentRelativeLayout Subclass of RelativeLayout that supports percentage based dimensions and margins.
+4. Skydoves rainbow (GitHub library for editing text view).
+5. Admob library to make money from ads.
+
  
 ***
 ## ➠ Start Contributing ☺
