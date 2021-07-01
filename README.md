@@ -9,7 +9,7 @@
 <p  href="url" align="center"  >
   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic1.jpg" height="60" width="190"  />
  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic2.jpg" height="60" width="190" /> 
-   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic3.jpg" height="60" width="190" /> 
+   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic3.jpeg" height="60" width="190" /> 
 </p>
 
 ***
