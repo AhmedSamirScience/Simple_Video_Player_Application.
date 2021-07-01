@@ -35,6 +35,7 @@ Download the apk or get the app via Google Play store.
 <p  href="url" align="center"  >
   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/playstorelogo.png" height="60" width="190"  />
  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/apkpic.png" height="60" width="190" /> 
+  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/fdroid.png" height="60" width="190" /> 
 </p>
  
 ***
