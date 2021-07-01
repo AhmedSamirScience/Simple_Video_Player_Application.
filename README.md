@@ -7,9 +7,9 @@
 ## 1 - Screenshots of The App📱:
 
 <p  href="url" align="center"  >
-  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic1.png" height="60" width="190"  />
- <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic2.png" height="60" width="190" /> 
-   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic3.png" height="60" width="190" /> 
+  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic1.jpg" height="60" width="190"  />
+ <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic2.jpg" height="60" width="190" /> 
+   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic3.jpg" height="60" width="190" /> 
 </p>
 
 ***
