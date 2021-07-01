@@ -6,7 +6,7 @@ Our goal with the app is how to avoid crashes as much as possible by using multi
 
 ***
 ## 2 - Introduction:
-It is a simple video app that covers music videos with song lyrics. It is useful to create this application to learn to watch, listen and read the lyrics of the song in different languages. Also our application in multiple languages not only lyrics. To make our app global.
+It is a simple video app that covers music videos with song lyrics. It is useful to create this application to learn to watch, listen and read the lyrics of the song in different languages. Also our application in multiple languages not only lyrics To make our app global.
 
 ***
 ## 3 - What did we learn from this idea?
