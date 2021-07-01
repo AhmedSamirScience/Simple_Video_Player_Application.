@@ -3,16 +3,25 @@
 ***
 ## 1 - Introduction:
 
+***
+## 1 - Screenshots of The App📱:
+
+<p  href="url" align="center"  >
+  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic1.png" height="60" width="190"  />
+ <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic2.png" height="60" width="190" /> 
+   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic3.png" height="60" width="190" /> 
+</p>
 
 ***
 ## 1 - Installation:
 
 Download the apk or get the app via Google Play store.
 
-
 <p  href="url" align="center"  >
   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/playstorelogo.png" height="60" width="190"  />
  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/apkpic.png" height="60" width="190" /> 
+   <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/apkpic.png" height="60" width="190" /> 
+
 </p>
  
 ***
