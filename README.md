@@ -25,7 +25,7 @@ Download the apk or get the app via Google Play store.
 </p>
  
 ***
-## ➠ Contributing ☺
+## ➠ Start Contributing ☺
 I will be more than happy if you decide to contribute and/or fork my repo and make something awesome out of it. I will love seeing some feedback or stars from you guys.
 
 ***
