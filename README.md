@@ -37,7 +37,7 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 6. Headphone detector.
 7. Additional theme options.
 8. Scrobbling.
-9. Theming.
+9. Multiple Themes.
 10. Compatible with Media Keys on Keyboard (like The Play/Pause, Next, and Previous media keys can be used to play, pause, or skip songs).
 
 
@@ -54,6 +54,6 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 ## ➠ Start Contributing ☺
 I will be more than happy if you decide to contribute and/or fork my repo and make something awesome out of it. I will love seeing some feedback or stars from you guys.
 
-#### To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you all of data related to this repository because it was on the market.
+#### To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you all of data (Our two years of experience) related to this repository because it was on the market and is no longer here.
 
 ***
