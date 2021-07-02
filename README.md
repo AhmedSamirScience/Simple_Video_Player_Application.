@@ -5,9 +5,8 @@
 Our goal with the app is how to avoid crashes as much as possible by using multiple threads in our code. So we have to cover all screens of mobile phones that support the Android platform. Also, we must support our app in multiple languages and not just the lyrics. The most important thing about this idea is the simplicity that helps us learn how to monitor crashes and ads and review what is related to the application. After we finished, the reviews were very helpful to us because we know what the user needs like it needs performance and the app without crashes, no matter the idea but any app won't make it to the top with a lot of problems in these factors.
 
 ***
-## 2 - Introduction:
-It is a simple video app that covers music videos with song lyrics. It is useful to create this application to learn to watch, listen and read the lyrics of the song in different languages. Also our application in multiple languages not only lyrics To make our app global.
-
+## 2 - Introduction (Our Idea):
+It is a simple video app that covers music videos with song lyrics. It is useful to create this application to learn to watch, listen and read the lyrics of the song in different languages at the same time. Also our application in multiple languages not only lyrics To make our app global.
 ***
 ## 3 - What did we learn from this idea?
  1. Monitor revenue, know how to get cashback and also know the types of ads and the right place for each type of ad to avoid wrong clicks (Google Admob).
