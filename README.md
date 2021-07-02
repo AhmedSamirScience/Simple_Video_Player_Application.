@@ -2,10 +2,10 @@
 
 ***
 ## 1 - Abstract:
-Our goal with the app is how to avoid crashes as much as possible by using multiple threads in our code. So we have to cover all screens of mobile phones that support the Android platform. Also, we must support our app in multiple languages and not just the lyrics. The most important thing about this idea is the simplicity that helps us learn how to monitor crashes and ads and review what is related to the application. After we finished, the reviews were very helpful to us because we know what the user needs like it needs performance and the app without crashes, no matter the idea but any app won't make it to the top with a lot of problems in these factors.
+Our real idea was not to demand more than technical knowledge to gain experience before implementing a potential idea and losing it because of our little experiences. Our simple idea is to gain more experience by creating a simple app that attracts users and at the same time serves users as much as possible to gain a lot of traffic to face most problems like crashes. So, our goal with the app is for example how to avoid crashes as much as possible by using multiple threads in our code. So we have to cover all screens of mobile phones that support the Android platform. Also, we must support our app in multiple languages and not just the lyrics. The most important thing about this idea is the simplicity that helps us learn how to monitor crashes and ads and review what is related to the application. After we finished, the reviews were very helpful to us because we know what the user needs like it needs performance and the app without crashes, no matter the idea but any app won't make it to the top with a lot of problems in these factors.
 
 ***
-## 2 - Introduction (Our Idea):
+## 2 - Introduction (Our Simple Idea for acheiving ):
 It is a simple video app that covers music videos with song lyrics. It is useful to create this application to learn to watch, listen and read the lyrics of the song in different languages at the same time. Also our application in multiple languages not only lyrics To make our app global.
 ***
 ## 3 - What did we learn from this idea?
