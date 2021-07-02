@@ -7,6 +7,7 @@ Our real idea was not to demand more than technical knowledge to gain experience
 ***
 ## 2 - Introduction (Our Simple Idea for acheiving ):
 It is a simple video app that covers music videos with song lyrics. It is useful to create this application to learn to watch, listen and read the lyrics of the song in different languages at the same time. Also our application in multiple languages not only lyrics To make our app global.
+
 ***
 ## 3 - What did we learn from this idea?
  1. Monitor revenue, know how to get cashback and also know the types of ads and the right place for each type of ad to avoid wrong clicks (Google Admob).
@@ -32,13 +33,12 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 2. Material design
 3. Browse Video Songs, and Albums.
 4. Lyrics support.
-5. Multiple languages (more than 16 languages).
+5. Multiple languages (more than 16 languages) (Localization (Change Language)).
 6. Headphone detector.
 7. Additional theme options.
 8. Scrobbling.
 9. Multiple Themes.
 10. Compatible with Media Keys on Keyboard (like The Play/Pause, Next, and Previous media keys can be used to play, pause, or skip songs).
-
 
 ***
 ## 5 - Libraries and tools used in the project:
@@ -47,12 +47,12 @@ It is a simple video app that covers music videos with song lyrics. It is useful
 3. PercentRelativeLayout Subclass of RelativeLayout that supports percentage based dimensions and margins.
 4. Skydoves rainbow (GitHub library for editing text view).
 5. Admob library to make money from ads.
-
+6. RecyclerView.
+7. Testing (Local and UI test).
  
 ***
 ## ➠ Start Contributing ☺
 I will be more than happy if you decide to contribute and/or fork my repo and make something awesome out of it. I will love seeing some feedback or stars from you guys.
 
 #### To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you all of data (Our two years of experience) related to this repository because it was on the market and is no longer here.
-
 ***
