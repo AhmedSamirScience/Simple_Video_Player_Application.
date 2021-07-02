@@ -24,7 +24,7 @@ It is a simple video app that covers music videos with song lyrics. It is useful
  <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic2.jpg" height="600" width="300" /> 
 </p>
 <p href="url" align="center"  >
- <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic3.jpeg" height="600" width="300" /> 
+ <img src="https://github.com/AhmedSamirScience/Simple_Video_Player_Application./blob/main/pic6.jpeg" height="600" width="300" /> 
 </p>
 
 ***
